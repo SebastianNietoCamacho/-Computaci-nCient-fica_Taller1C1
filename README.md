@@ -15,3 +15,5 @@ El análisis realizado expuesto en los archivos adjuntos, buscan brindar informa
 
 
 <img src="https://user-images.githubusercontent.com/90856580/157359147-9cb4fcf3-e8f1-4fad-aa04-e9c308093cb9.png" width="350px" hight="100px">
+
+<img src="https://user-images.githubusercontent.com/90856580/157359615-6b69edbb-fcda-4955-95b7-8fdbcbce8d57.png" width="350px" hight="100px">
