@@ -6,7 +6,7 @@ Integrantes: Sebastián Camilo Nieto Camacho, Diego Mauricio Veloza Martínez, N
 
 Presentado a: Prof. Fabián Camilo Peña. 
 
-VIDEO EXPLICATIVO:  -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE.
+VIDEO EXPLICATIVO:  https://youtu.be/f1vZCo_SIBY -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE.
 
 
 Dentro de este repositorio se adjuntarán los archivos '.py' que contienen una serie de pasos para el análisis de los datos abiertos al público por parte del Gobierno de Colombia respecto a una serie de delitos (homicidios, lesiones personales, agresiones sexuales, entre otros)) que afectan a la sociedad en general.
